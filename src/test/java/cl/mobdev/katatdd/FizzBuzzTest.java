@@ -42,7 +42,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    void give_fifhteen_when_getFizzBuzzNumber_then_retun_FizzBuzz() {
+    void give_fifteen_when_getFizzBuzzNumber_then_retun_FizzBuzz() {
 
     }
 
